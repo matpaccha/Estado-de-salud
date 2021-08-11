@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/recuso">
+        <file>iconos/bascula.png</file>
+        <file>iconos/escala.png</file>
+        <file>iconos/levantamiento-de-pesas.png</file>
+        <file>iconos/mas.png</file>
+    </qresource>
+</RCC>
